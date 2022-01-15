@@ -23,4 +23,4 @@ module.exports="/team-project-filmoteka/noImageAvailable.0102bcca.jpg";
 },{"../utils/refs":"JwTr","./createMoviesList":"hMX8"}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/components/togglePages"),require("./js/components/createMoviesList");
 },{"./sass/main.scss":"clu1","./js/components/togglePages":"UEnv","./js/components/createMoviesList":"hMX8"}]},{},["Focm"], null)
-//# sourceMappingURL=/team-project-filmoteka/src.d9456d14.js.map
+//# sourceMappingURL=/team-project-filmoteka/src.96ee7172.js.map
