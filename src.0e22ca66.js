@@ -39,4 +39,4 @@ const e=document.querySelector(".footer__link"),t=document.querySelector(".modal
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/components/togglePages"),require("./js/components/film-description-modal"),require("./js/components/search-by-query"),require("./js/components/createMoviesList"),require("./js/components/modal-footer-friends");
 },{"./sass/main.scss":"clu1","./js/components/togglePages":"UEnv","./js/components/film-description-modal":"Visa","./js/components/search-by-query":"br7D","./js/components/createMoviesList":"hMX8","./js/components/modal-footer-friends":"mc4c"}]},{},["Focm"], null)
-//# sourceMappingURL=/team-project-filmoteka/src.cd6266d7.js.map
+//# sourceMappingURL=/team-project-filmoteka/src.0e22ca66.js.map
