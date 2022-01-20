@@ -52,4 +52,4 @@ var t;!function(e,n){"object"==typeof exports&&"object"==typeof module?module.ex
 },{"tui-pagination":"jPMh","tui-pagination/dist/tui-pagination.css":"opPG"}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/components/togglePages"),require("./js/components/film-description-modal"),require("./js/components/search-by-query"),require("./js/components/createMoviesList"),require("./js/components/modal-footer-friends"),require("./js/components/watched"),require("./js/utils/pagination");
 },{"./sass/main.scss":"clu1","./js/components/togglePages":"UEnv","./js/components/film-description-modal":"Visa","./js/components/search-by-query":"br7D","./js/components/createMoviesList":"hMX8","./js/components/modal-footer-friends":"mc4c","./js/components/watched":"p6KI","./js/utils/pagination":"mvzY"}]},{},["Focm"], null)
-//# sourceMappingURL=/team-project-filmoteka/src.13bf1822.js.map
+//# sourceMappingURL=/team-project-filmoteka/src.afbd52a9.js.map
