@@ -64,4 +64,4 @@ const e=document.querySelector(".footer__link"),t=document.querySelector(".modal
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/components/home"),require("./js/components/search-by-query"),require("./js/components/watched"),require("./js/components/togglePages"),require("./js/components/autorization"),require("./js/components/film-description-modal"),require("./js/components/trailer"),require("./js/components/films-container"),require("./js/components/modal-footer-friends"),require("./js/components/queue");
 },{"./sass/main.scss":"clu1","./js/components/home":"wBjs","./js/components/search-by-query":"br7D","./js/components/watched":"p6KI","./js/components/togglePages":"UEnv","./js/components/autorization":"cXlz","./js/components/film-description-modal":"Visa","./js/components/trailer":"rsXv","./js/components/films-container":"etSi","./js/components/modal-footer-friends":"mc4c","./js/components/queue":"gSLu"}]},{},["Focm"], null)
-//# sourceMappingURL=/team-project-filmoteka/src.05470320.js.map
+//# sourceMappingURL=/team-project-filmoteka/src.42255d93.js.map
